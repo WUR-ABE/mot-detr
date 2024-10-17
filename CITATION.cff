@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+preferred-citation:
+  authors:
+    - family-names: Rapado-Rincon
+      given-names: David
+    - family-names: Nap
+      given-names: Henk
+    - family-names: Smolenova
+      given-names: Katarina
+    - family-names: van Henten
+      given-names: Eldert J.
+    - family-names: Kootstra
+      given-names: Gert
+  doi: 10.1016/j.compag.2024.109275
+  identifiers:
+    - type: doi
+      value: 10.1016/j.compag.2024.109275
+    - type: url
+      value: http://dx.doi.org/10.1016/j.compag.2024.109275
+    - type: other
+      value: urn:issn:0168-1699
+  title: >-
+    MOT-DETR: 3D single shot detection and tracking with transformers to build
+    3D representations for agro-food robots
+  url: http://dx.doi.org/10.1016/j.compag.2024.109275
+  database: Crossref
+  date-published: 2024-10-01
+  year: 2024
+  month: 10
+  issn: 0168-1699
+  journal: Computers and Electronics in Agriculture
+  languages:
+    - en
+  publisher:
+    name: Elsevier BV
+  start: '109275'
+  type: article
+  volume: '225'

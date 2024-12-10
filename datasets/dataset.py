@@ -2,7 +2,7 @@ import random
 import json
 import os
 import numpy as np
-from pcd_python.pointclouds import PointCloud
+from utils.pointclouds import PointCloud
 from PIL import Image
 import torch
 from torch.utils.data import Dataset
